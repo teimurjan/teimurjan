@@ -23,6 +23,8 @@ jobs:
               run: npm i
             
             - name: Generate README
+              env:
+                GRAPH_CMS_URL: ${{ secrets.GRAPH_CMS_URL }}
               run: node index.js
 
             - name: Deploy
