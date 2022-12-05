@@ -30,6 +30,6 @@ jobs:
             - name: Deploy
               uses: test-room-7/action-update-file@v1
               with:
-                  file-path: ./README.md
+                  file-path: README.md
                   commit-msg: Update README
                   github-token: ${{ secrets.GITHUB_TOKEN }}
