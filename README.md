@@ -23,7 +23,7 @@ The knowledge I've got from these companies lets me contribute to the community:
   - [GDG Almaty 2018 - Proper documentation with ReactJS](https://m.facebook.com/GDGAlmaty/posts/2286677874707203) 🎙️
   - [IT Entrance Belarus 2020 - Career growth recipes](https://www.youtube.com/embed/lvny7WmSwDs) 🎙️
 - Interviews
-  - [IT-специалист: “Toptal – это реальный шанс выйти на новый уровень”](https://www.youtube.com/embed/4gPrCiwQS68) 🎙️
+  - [IT-специалист: “Toptal – это реальный шанс выйти на новый уровень”](https://www.youtube.com/embed/4gPrCiwQS68) 📺
 
 
 Despite the fact that I might be busy, I'm open to any offers/collaboartions and would be happy to reply.
