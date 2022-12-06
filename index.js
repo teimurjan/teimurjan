@@ -24,6 +24,13 @@ const query = gql`
       description {
         html
       }
+      logo {
+        url(
+          transformation: {
+            image: { resize: { width: 200, height: 200, fit: clip } }
+          }
+        )
+      }
     }
     publications {
       id
@@ -68,11 +75,11 @@ const index = async () => {
   );
   data.experiences.forEach((experience) => {
     lines.push(
-      `- ${experience.company} \`(${experience.location} ${experience.locationIcon})\``
+      `<div><img width="16" src="${experience.logo.url}" />&nbsp; ${experience.company} <code>(${experience.location} ${experience.locationIcon})</code></div>`
     );
   });
 
-  lines.push("\n");
+  lines.push("<br />");
 
   lines.push(
     `The knowledge I've got from these companies lets me contribute to the community:\n`
