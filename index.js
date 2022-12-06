@@ -73,27 +73,25 @@ const index = async () => {
   lines.push(
     `At the time you're reading that, I've worked at the following companies:\n`
   );
+  lines.push("<table>");
   data.experiences.forEach((experience) => {
     lines.push(
-      `<div><img width="16" src="${experience.logo.url}" />&nbsp; ${experience.company} <code>(${experience.location} ${experience.locationIcon})</code></div>`
+      `<tr><td valign="center"><img width="16" src="${experience.logo.url}" />&nbsp; ${experience.company} <code>(${experience.location} ${experience.locationIcon})</code></td></tr>`
     );
   });
+  lines.push("</table>");
 
   lines.push("<br />");
 
   lines.push(
     `The knowledge I've got from these companies lets me contribute to the community:\n`
   );
-  
-  lines.push(
-    `- Publications`
-  );
+
+  lines.push(`- Publications`);
   data.publications.forEach((publication) => {
     lines.push(`  - [${publication.title}](${publication.link}) ✏️`);
   });
-  lines.push(
-    `- Conferences`
-  );
+  lines.push(`- Conferences`);
   data.conferences.forEach((conference) => {
     lines.push(
       `  - [${conference.title} - ${conference.topic}](${
@@ -101,13 +99,9 @@ const index = async () => {
       }) 🎙️`
     );
   });
-  lines.push(
-    `- Interviews`
-  );
+  lines.push(`- Interviews`);
   data.interviews.forEach((interview) => {
-    lines.push(
-      `  - [${interview.title}](${interview.videoEmbed.link}) 📺`
-    );
+    lines.push(`  - [${interview.title}](${interview.videoEmbed.link}) 📺`);
   });
 
   lines.push("\n");
