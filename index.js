@@ -87,22 +87,42 @@ const index = async () => {
     `The knowledge I've got from these companies lets me contribute to the community:\n`
   );
 
-  lines.push(`- Publications`);
+  lines.push(`|Publications ✏️|Conferences 🎙️|Interviews 📺|`);
+  lines.push(`|-|-|-|`);
+
+  const publications = [];
   data.publications.forEach((publication) => {
-    lines.push(`  - [${publication.title}](${publication.link}) ✏️`);
+    publications.push(`[${publication.title}](${publication.link})`);
   });
-  lines.push(`- Conferences`);
+
+  const conferences = [];
   data.conferences.forEach((conference) => {
-    lines.push(
-      `  - [${conference.title} - ${conference.topic}](${
+    conferences.push(
+      `[${conference.title} - ${conference.topic}](${
         conference.videoEmbed?.link || conference.link
-      }) 🎙️`
+      })`
     );
   });
-  lines.push(`- Interviews`);
+
+  const interviews = [];
   data.interviews.forEach((interview) => {
-    lines.push(`  - [${interview.title}](${interview.videoEmbed.link}) 📺`);
+    interviews.push(`[${interview.title}](${interview.videoEmbed.link})`);
   });
+
+  const rowsCount = Math.max(
+    publications.length,
+    conferences.length,
+    interviews.length
+  );
+  for (let index = 0; index < rowsCount; index++) {
+    lines.push(
+      `|${[publications, conferences, interviews]
+        .map((array) => {
+          return array[index] ?? "";
+        })
+        .join("|")}|`
+    );
+  }
 
   lines.push("\n");
 
