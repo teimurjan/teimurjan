@@ -5,6 +5,7 @@ I am an engineer with significant experience in web development. Having excellen
 At the time you're reading that, I've worked at the following companies:
 
 <table>
+<tr><td valign="center"><img width="16" src="https://media.graphassets.com/resize=fit:clip,height:200,width:200/eXnteKDTR7qsEAK1gpBo" />&nbsp; Roll <code>(Remote 🌍)</code></td></tr>
 <tr><td valign="center"><img width="16" src="https://media.graphassets.com/resize=fit:clip,height:200,width:200/KAv3aOv9SfaOALSTKfPM" />&nbsp; Klarna <code>(Berlin, Germany 🇩🇪)</code></td></tr>
 <tr><td valign="center"><img width="16" src="https://media.graphassets.com/resize=fit:clip,height:200,width:200/ozWnpPLaQbuCXvjdn7wO" />&nbsp; Toptal <code>(Remote 🌍)</code></td></tr>
 <tr><td valign="center"><img width="16" src="https://media.graphassets.com/resize=fit:clip,height:200,width:200/QMk0lMXKQnm9QWXr7a3j" />&nbsp; Clubhouse (currently Shortcut) <code>(Remote 🌍)</code></td></tr>
