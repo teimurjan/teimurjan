@@ -21,6 +21,7 @@ The knowledge I've got from these companies lets me contribute to the community:
 |[Machine Learning Number Recognition - From Zero to Application](https://www.toptal.com/data-science/machine-learning-number-recognition)|[PyCon Kyrgyzstan 2018 - Data visualization in Python](https://en-gb.facebook.com/events/389576511550143/?active_tab=about)||
 |[The Best React State Management Tools for Enterprise Applications](https://www.toptal.com/react/react-state-management-tools-enterprise)|[GDG Almaty 2018 - Proper documentation with ReactJS](https://m.facebook.com/GDGAlmaty/posts/2286677874707203)||
 |[Demystifying Debugging With React Developer Tools](https://www.toptal.com/react/debugging-react-developer-tools)|[IT Entrance Belarus 2020 - Career growth recipes](https://www.youtube.com/embed/lvny7WmSwDs)||
+|[Crafting Automation Magic: A Look Into Modern CV Development Techniques](https://hackernoon.com/crafting-automation-magic-a-look-into-modern-cv-development-techniques)|||
 
 
 Despite the fact that I might be busy, I'm open to any offers/collaboartions and would be happy to reply.
