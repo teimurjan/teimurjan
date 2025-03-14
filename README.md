@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an engineer with extensive experience in UI/UX, software architecture, and team leadership. Proficient in React, JavaScript, and TypeScript, I possess strong communication, management, and problem-solving skills, enabling me to devise reliable solutions for complex challenges.
+I am an engineer with 9+ years of experience in UI/UX, software architecture, and team leadership. Proficient in React, JavaScript, and TypeScript, I possess strong communication, management, and problem-solving skills, enabling me to devise reliable solutions for complex challenges.
 
 At the time you're reading that, I've worked at the following companies:
 
