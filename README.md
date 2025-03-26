@@ -17,12 +17,12 @@ The knowledge I've got from these companies lets me contribute to the community:
 
 |Publications ✏️|Conferences 🎙️|Interviews 📺|
 |-|-|-|
-|[Lighter and Faster - A Guide to the Svelte Framework](https://www.toptal.com/front-end/svelte-framework-guide)|[GDG IWD Bishkek 2018 - Optimization of React applications](https://gdg.community.dev/events/details/google-gdg-bishkek-presents-gdg-iwd-2018/)|[IT-специалист: “Toptal – это реальный шанс выйти на новый уровень”](https://www.youtube.com/embed/4gPrCiwQS68)|
-|[Machine Learning Number Recognition - From Zero to Application](https://www.toptal.com/data-science/machine-learning-number-recognition)|[PyCon Kyrgyzstan 2018 - Data visualization in Python](https://en-gb.facebook.com/events/389576511550143/?active_tab=about)||
-|[The Best React State Management Tools for Enterprise Applications](https://www.toptal.com/react/react-state-management-tools-enterprise)|[GDG Almaty 2018 - Proper documentation with React](https://m.facebook.com/GDGAlmaty/posts/2286677874707203)||
-|[Demystifying Debugging With React Developer Tools](https://www.toptal.com/react/debugging-react-developer-tools)|[IT Entrance Belarus 2020 - Career growth recipes](https://www.youtube.com/embed/lvny7WmSwDs)||
-|[Crafting Automation Magic: A Look Into Modern CV Development Techniques](https://hackernoon.com/crafting-automation-magic-a-look-into-modern-cv-development-techniques)|||
-|[Building a Robust JS/TS Monorepo: Best Practices with Yarn, NX and Changesets](https://hackernoon.com/building-a-robust-jsts-monorepo-best-practices-with-yarn-nx-and-changesets)|||
+|[Building a Robust JS/TS Monorepo: Best Practices with Yarn, NX and Changesets](https://hackernoon.com/building-a-robust-jsts-monorepo-best-practices-with-yarn-nx-and-changesets)|[IT Entrance Belarus 2020 - Career growth recipes](https://www.youtube.com/embed/lvny7WmSwDs)|[IT-специалист: “Toptal – это реальный шанс выйти на новый уровень”](https://www.youtube.com/embed/4gPrCiwQS68)|
+|[Crafting Automation Magic: A Look Into Modern CV Development Techniques](https://hackernoon.com/crafting-automation-magic-a-look-into-modern-cv-development-techniques)|[GDG Almaty 2018 - Proper documentation with React](https://m.facebook.com/GDGAlmaty/posts/2286677874707203)||
+|[Demystifying Debugging With React Developer Tools](https://www.toptal.com/react/debugging-react-developer-tools)|[PyCon Kyrgyzstan 2018 - Data visualization in Python](https://en-gb.facebook.com/events/389576511550143/?active_tab=about)||
+|[The Best React State Management Tools for Enterprise Applications](https://www.toptal.com/react/react-state-management-tools-enterprise)|[GDG IWD Bishkek 2018 - Optimization of React applications](https://gdg.community.dev/events/details/google-gdg-bishkek-presents-gdg-iwd-2018/)||
+|[Machine Learning Number Recognition - From Zero to Application](https://www.toptal.com/data-science/machine-learning-number-recognition)|||
+|[Lighter and Faster - A Guide to the Svelte Framework](https://www.toptal.com/front-end/svelte-framework-guide)|||
 
 
 Despite the fact that I might be busy, I'm open to any offers/collaboartions and would be happy to reply.
