@@ -5,6 +5,7 @@ I am an engineer with 9+ years of experience in UI/UX, software architecture, an
 At the time you're reading that, I've worked at the following companies:
 
 <table>
+<tr><td valign="center"><img width="16" src="https://eu-central-1.graphassets.com/ANZwfIRSNQ62y1agOSZdFz/resize=fit:clip,height:200,width:200/cmc1ozugb4g7m07ujhkbzmafh" />&nbsp; Speechify <code>(Remote 🌍)</code></td></tr>
 <tr><td valign="center"><img width="16" src="https://eu-central-1.graphassets.com/ANZwfIRSNQ62y1agOSZdFz/resize=fit:clip,height:200,width:200/rMWxaEWJQHKYTAPwZWFq" />&nbsp; Form <code>(Remote 🌍)</code></td></tr>
 <tr><td valign="center"><img width="16" src="https://eu-central-1.graphassets.com/ANZwfIRSNQ62y1agOSZdFz/resize=fit:clip,height:200,width:200/KAv3aOv9SfaOALSTKfPM" />&nbsp; Klarna <code>(Berlin, Germany 🇩🇪)</code></td></tr>
 <tr><td valign="center"><img width="16" src="https://eu-central-1.graphassets.com/ANZwfIRSNQ62y1agOSZdFz/resize=fit:clip,height:200,width:200/ozWnpPLaQbuCXvjdn7wO" />&nbsp; Toptal <code>(Remote 🌍)</code></td></tr>
