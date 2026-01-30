@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an engineer with 9+ years of experience in UI/UX, software architecture, and team leadership. Proficient in React, JavaScript, and TypeScript, I possess strong communication, management, and problem-solving skills, enabling me to devise reliable solutions for complex challenges.
+I design and deploy high-impact systems built on LLMs, local inference, and agent architectures, working close to real problems and shipping production solutions that move core metrics.
 
 At the time you're reading that, I've worked at the following companies:
 
