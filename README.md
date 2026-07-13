@@ -19,7 +19,7 @@ I design and deploy high-impact systems built on LLMs, local inference, and agen
 ### Writing & Speaking
 
 11 articles published, 4 conference talks.
-[more on my website](https://teimurjan.github.io)
+[more on my website](https://teimurjan.dev)
 
 ---
 
