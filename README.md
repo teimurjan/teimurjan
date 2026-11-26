@@ -7,7 +7,7 @@ I design and deploy high-impact systems built on LLMs, local inference, and agen
 ### Recent Work
 
 - **Speechify** - Remote 🌍
-- **Form** - Remote 🌍
+- **Roll (Form)** - Remote 🌍
 - **Klarna** - Berlin, Germany 🇩🇪
 
 ### Projects I Maintain
